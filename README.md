@@ -8,4 +8,4 @@ o projeto tem o objetivo de centralizar as principais informações de um portf�
 ## 🛠️Principais aprendizados 
 Os principais apredizados foram a trabalhar com react por via do Vite
 ## 🛠️ o Créditos e autoria
-O projeto foi feito com auxilio do  [REact] (https://react.dev/learn/tutorial-tic-tac-toe)) 
+O projeto foi feito com auxilio do  [REact](https://react.dev/learn/tutorial-tic-tac-toe)
